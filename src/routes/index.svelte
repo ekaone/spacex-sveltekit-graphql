@@ -57,7 +57,7 @@
     class="link"
     target="_blank"
     rel="noopener"
-    href="https://github.com/leerob/sveltekit-graphql">GitHub</a
+    href="https://github.com/ekaone/spacex-sveltekit-graphql">GitHub</a
   >.
 </p>
 <ul>
